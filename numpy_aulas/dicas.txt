@@ -1,0 +1,4 @@
+Sites
+https://numpy.org/doc/
+Guia do usuário, mais simples e curto
+https://numpy.org/doc/1.18/numpy-user.pdf
