@@ -1,6 +1,5 @@
 import numpy as np
 
-
 my_array = np.arange(8).reshape(2, 4) ** 2
 my_array[0][0] = 11
 print(my_array)
@@ -31,3 +30,8 @@ print("argmin retorna o índice do elemento com menor valor")
 print(my_array.argmin())
 # Reposta
 # 1
+
+print("Retorna um array com a soma acumulada, soma os elementos anteriores")
+print(my_array.cumsum())
+# Resposta
+# [ 11  12  16  25  41  66 102 151]
