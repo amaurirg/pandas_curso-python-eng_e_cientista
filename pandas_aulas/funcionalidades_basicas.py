@@ -13,7 +13,7 @@ print(dic)
 # [0, 1, 2, 3, 4, 5, 6]
 # {'string': ['a', 'a', 'b', 'c', 'a', 'd', 'c'], 'numeros': [0, 1, 2, 3, 4, 5, 6]}
 
-df = pd. DataFrame(dic)
+df = pd.DataFrame(dic)
 print(df)
 # Resposta
 #   string  numeros
